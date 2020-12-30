@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560658516184",
+    "firebase_url": "https://chatt-778ec.firebaseio.com",
+    "project_id": "chatt-778ec",
+    "storage_bucket": "chatt-778ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560658516184:android:26465cbe69bf41c7872fad",
+        "android_client_info": {
+          "package_name": "com.narahari.securechatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560658516184-ua03cdc21hm2eajahg3516p8mhhq8mic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeQbNz8meeVF7ZEDC4PsELu0Uh_91vSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560658516184-ua03cdc21hm2eajahg3516p8mhhq8mic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
